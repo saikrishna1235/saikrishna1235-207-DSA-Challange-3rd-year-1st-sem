@@ -1,0 +1,5 @@
+import {Router} from 'express';import bcrypt from 'bcryptjs';import jwt from 'jsonwebtoken';import User from '../models/User.js';import {requireAuth} from '../middleware/auth.js';
+const r=Router();const opts=()=>({httpOnly:true,sameSite:'none',secure:process.env.COOKIE_SECURE==='true',maxAge:604800000});
+r.post('/login',async(req,res)=>{try{const {email,password}=req.body||{};const u=await User.findOne({email:String(email||'').toLowerCase()});if(!u||!(await bcrypt.compare(password||'',u.passwordHash)))return res.status(401).json({error:'Invalid credentials'});const t=jwt.sign({id:u._id.toString(),email:u.email,role:u.role},process.env.JWT_SECRET,{expiresIn:'7d'});res.cookie('dsa_token',t,opts()).json({user:{email:u.email,role:u.role}})}catch(e){res.status(500).json({error:e.message})}});
+r.post('/logout',(req,res)=>{res.clearCookie('dsa_token',{httpOnly:true,sameSite:'none',secure:process.env.COOKIE_SECURE==='true'}).json({ok:true})});
+r.get('/me',requireAuth,(req,res)=>res.json({user:{email:req.user.email,role:req.user.role}}));export default r;

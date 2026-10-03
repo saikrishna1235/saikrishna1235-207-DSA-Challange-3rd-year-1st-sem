@@ -1,0 +1,2072 @@
+[
+  {
+    "problemNo": 1,
+    "date": "2026-10-05",
+    "day": "Monday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 1,
+    "name": "Two Sum"
+  },
+  {
+    "problemNo": 2,
+    "date": "2026-10-05",
+    "day": "Monday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 121,
+    "name": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "problemNo": 3,
+    "date": "2026-10-06",
+    "day": "Tuesday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 136,
+    "name": "Single Number"
+  },
+  {
+    "problemNo": 4,
+    "date": "2026-10-06",
+    "day": "Tuesday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 169,
+    "name": "Majority Element"
+  },
+  {
+    "problemNo": 5,
+    "date": "2026-10-07",
+    "day": "Wednesday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 217,
+    "name": "Contains Duplicate"
+  },
+  {
+    "problemNo": 6,
+    "date": "2026-10-07",
+    "day": "Wednesday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 242,
+    "name": "Valid Anagram"
+  },
+  {
+    "problemNo": 7,
+    "date": "2026-10-08",
+    "day": "Thursday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 283,
+    "name": "Move Zeroes"
+  },
+  {
+    "problemNo": 8,
+    "date": "2026-10-08",
+    "day": "Thursday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 344,
+    "name": "Reverse String"
+  },
+  {
+    "problemNo": 9,
+    "date": "2026-10-08",
+    "day": "Thursday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 387,
+    "name": "First Unique Character in a String"
+  },
+  {
+    "problemNo": 10,
+    "date": "2026-10-09",
+    "day": "Friday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Easy",
+    "lc": 1480,
+    "name": "Running Sum of 1d Array"
+  },
+  {
+    "problemNo": 11,
+    "date": "2026-10-09",
+    "day": "Friday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Medium",
+    "lc": 3,
+    "name": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "problemNo": 12,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Medium",
+    "lc": 54,
+    "name": "Spiral Matrix"
+  },
+  {
+    "problemNo": 13,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Medium",
+    "lc": 238,
+    "name": "Product of Array Except Self"
+  },
+  {
+    "problemNo": 14,
+    "date": "2026-10-11",
+    "day": "Sunday",
+    "session": 1,
+    "topic": "Arrays & Strings",
+    "difficulty": "Hard",
+    "lc": 49,
+    "name": "Group Anagrams"
+  },
+  {
+    "problemNo": 15,
+    "date": "2026-10-11",
+    "day": "Sunday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 125,
+    "name": "Valid Palindrome"
+  },
+  {
+    "problemNo": 16,
+    "date": "2026-10-12",
+    "day": "Monday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 167,
+    "name": "Two Sum II - Input Array Is Sorted"
+  },
+  {
+    "problemNo": 17,
+    "date": "2026-10-12",
+    "day": "Monday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 219,
+    "name": "Contains Duplicate II"
+  },
+  {
+    "problemNo": 18,
+    "date": "2026-10-12",
+    "day": "Monday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 345,
+    "name": "Reverse Vowels of a String"
+  },
+  {
+    "problemNo": 19,
+    "date": "2026-10-13",
+    "day": "Tuesday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 392,
+    "name": "Is Subsequence"
+  },
+  {
+    "problemNo": 20,
+    "date": "2026-10-13",
+    "day": "Tuesday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 485,
+    "name": "Max Consecutive Ones"
+  },
+  {
+    "problemNo": 21,
+    "date": "2026-10-14",
+    "day": "Wednesday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 643,
+    "name": "Maximum Average Subarray I"
+  },
+  {
+    "problemNo": 22,
+    "date": "2026-10-14",
+    "day": "Wednesday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Easy",
+    "lc": 977,
+    "name": "Squares of a Sorted Array"
+  },
+  {
+    "problemNo": 23,
+    "date": "2026-10-15",
+    "day": "Thursday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 11,
+    "name": "Container With Most Water"
+  },
+  {
+    "problemNo": 24,
+    "date": "2026-10-15",
+    "day": "Thursday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 15,
+    "name": "3Sum"
+  },
+  {
+    "problemNo": 25,
+    "date": "2026-10-16",
+    "day": "Friday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 424,
+    "name": "Longest Repeating Character Replacement"
+  },
+  {
+    "problemNo": 26,
+    "date": "2026-10-16",
+    "day": "Friday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 438,
+    "name": "Find All Anagrams in a String"
+  },
+  {
+    "problemNo": 27,
+    "date": "2026-10-16",
+    "day": "Friday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 567,
+    "name": "Permutation in String"
+  },
+  {
+    "problemNo": 28,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "lc": 1004,
+    "name": "Max Consecutive Ones III"
+  },
+  {
+    "problemNo": 29,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "session": 2,
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Hard",
+    "lc": 76,
+    "name": "Minimum Window Substring"
+  },
+  {
+    "problemNo": 30,
+    "date": "2026-10-18",
+    "day": "Sunday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 35,
+    "name": "Search Insert Position"
+  },
+  {
+    "problemNo": 31,
+    "date": "2026-10-18",
+    "day": "Sunday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 69,
+    "name": "Sqrt(x)"
+  },
+  {
+    "problemNo": 32,
+    "date": "2026-10-19",
+    "day": "Monday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 278,
+    "name": "First Bad Version"
+  },
+  {
+    "problemNo": 33,
+    "date": "2026-10-19",
+    "day": "Monday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 349,
+    "name": "Intersection of Two Arrays"
+  },
+  {
+    "problemNo": 34,
+    "date": "2026-10-20",
+    "day": "Tuesday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 374,
+    "name": "Guess Number Higher or Lower"
+  },
+  {
+    "problemNo": 35,
+    "date": "2026-10-20",
+    "day": "Tuesday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Easy",
+    "lc": 704,
+    "name": "Binary Search"
+  },
+  {
+    "problemNo": 36,
+    "date": "2026-10-20",
+    "day": "Tuesday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 33,
+    "name": "Search in Rotated Sorted Array"
+  },
+  {
+    "problemNo": 37,
+    "date": "2026-10-21",
+    "day": "Wednesday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 34,
+    "name": "Find First and Last Position of Element in Sorted Array"
+  },
+  {
+    "problemNo": 38,
+    "date": "2026-10-21",
+    "day": "Wednesday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 56,
+    "name": "Merge Intervals"
+  },
+  {
+    "problemNo": 39,
+    "date": "2026-10-22",
+    "day": "Thursday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 153,
+    "name": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "problemNo": 40,
+    "date": "2026-10-22",
+    "day": "Thursday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 162,
+    "name": "Find Peak Element"
+  },
+  {
+    "problemNo": 41,
+    "date": "2026-10-23",
+    "day": "Friday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "lc": 912,
+    "name": "Sort an Array"
+  },
+  {
+    "problemNo": 42,
+    "date": "2026-10-23",
+    "day": "Friday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Hard",
+    "lc": 4,
+    "name": "Median of Two Sorted Arrays"
+  },
+  {
+    "problemNo": 43,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "session": 3,
+    "topic": "Searching & Sorting",
+    "difficulty": "Hard",
+    "lc": 41,
+    "name": "First Missing Positive"
+  },
+  {
+    "problemNo": 44,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Easy",
+    "lc": 100,
+    "name": "Same Tree"
+  },
+  {
+    "problemNo": 45,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Easy",
+    "lc": 104,
+    "name": "Maximum Depth of Binary Tree"
+  },
+  {
+    "problemNo": 46,
+    "date": "2026-10-25",
+    "day": "Sunday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Easy",
+    "lc": 112,
+    "name": "Path Sum"
+  },
+  {
+    "problemNo": 47,
+    "date": "2026-10-25",
+    "day": "Sunday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Easy",
+    "lc": 226,
+    "name": "Invert Binary Tree"
+  },
+  {
+    "problemNo": 48,
+    "date": "2026-10-26",
+    "day": "Monday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Easy",
+    "lc": 509,
+    "name": "Fibonacci Number"
+  },
+  {
+    "problemNo": 49,
+    "date": "2026-10-26",
+    "day": "Monday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 17,
+    "name": "Letter Combinations of a Phone Number"
+  },
+  {
+    "problemNo": 50,
+    "date": "2026-10-27",
+    "day": "Tuesday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 22,
+    "name": "Generate Parentheses"
+  },
+  {
+    "problemNo": 51,
+    "date": "2026-10-27",
+    "day": "Tuesday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 39,
+    "name": "Combination Sum"
+  },
+  {
+    "problemNo": 52,
+    "date": "2026-10-28",
+    "day": "Wednesday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 46,
+    "name": "Permutations"
+  },
+  {
+    "problemNo": 53,
+    "date": "2026-10-28",
+    "day": "Wednesday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 78,
+    "name": "Subsets"
+  },
+  {
+    "problemNo": 54,
+    "date": "2026-10-28",
+    "day": "Wednesday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 79,
+    "name": "Word Search"
+  },
+  {
+    "problemNo": 55,
+    "date": "2026-10-29",
+    "day": "Thursday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Medium",
+    "lc": 90,
+    "name": "Subsets II"
+  },
+  {
+    "problemNo": 56,
+    "date": "2026-10-29",
+    "day": "Thursday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Hard",
+    "lc": 37,
+    "name": "Sudoku Solver"
+  },
+  {
+    "problemNo": 57,
+    "date": "2026-10-30",
+    "day": "Friday",
+    "session": 4,
+    "topic": "Recursion & Backtracking",
+    "difficulty": "Hard",
+    "lc": 51,
+    "name": "N-Queens"
+  },
+  {
+    "problemNo": 58,
+    "date": "2026-10-30",
+    "day": "Friday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 21,
+    "name": "Merge Two Sorted Lists"
+  },
+  {
+    "problemNo": 59,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 141,
+    "name": "Linked List Cycle"
+  },
+  {
+    "problemNo": 60,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 160,
+    "name": "Intersection of Two Linked Lists"
+  },
+  {
+    "problemNo": 61,
+    "date": "2026-11-01",
+    "day": "Sunday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 203,
+    "name": "Remove Linked List Elements"
+  },
+  {
+    "problemNo": 62,
+    "date": "2026-11-01",
+    "day": "Sunday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 206,
+    "name": "Reverse Linked List"
+  },
+  {
+    "problemNo": 63,
+    "date": "2026-11-01",
+    "day": "Sunday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "lc": 876,
+    "name": "Middle of the Linked List"
+  },
+  {
+    "problemNo": 64,
+    "date": "2026-11-02",
+    "day": "Monday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 2,
+    "name": "Add Two Numbers"
+  },
+  {
+    "problemNo": 65,
+    "date": "2026-11-02",
+    "day": "Monday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 19,
+    "name": "Remove Nth Node From End of List"
+  },
+  {
+    "problemNo": 66,
+    "date": "2026-11-03",
+    "day": "Tuesday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 24,
+    "name": "Swap Nodes in Pairs"
+  },
+  {
+    "problemNo": 67,
+    "date": "2026-11-03",
+    "day": "Tuesday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 61,
+    "name": "Rotate List"
+  },
+  {
+    "problemNo": 68,
+    "date": "2026-11-04",
+    "day": "Wednesday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 138,
+    "name": "Copy List with Random Pointer"
+  },
+  {
+    "problemNo": 69,
+    "date": "2026-11-04",
+    "day": "Wednesday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "lc": 143,
+    "name": "Reorder List"
+  },
+  {
+    "problemNo": 70,
+    "date": "2026-11-05",
+    "day": "Thursday",
+    "session": 5,
+    "topic": "Linked List",
+    "difficulty": "Hard",
+    "lc": 25,
+    "name": "Reverse Nodes in k-Group"
+  },
+  {
+    "problemNo": 71,
+    "date": "2026-11-05",
+    "day": "Thursday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 20,
+    "name": "Valid Parentheses"
+  },
+  {
+    "problemNo": 72,
+    "date": "2026-11-05",
+    "day": "Thursday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 155,
+    "name": "Min Stack"
+  },
+  {
+    "problemNo": 73,
+    "date": "2026-11-06",
+    "day": "Friday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 225,
+    "name": "Implement Stack using Queues"
+  },
+  {
+    "problemNo": 74,
+    "date": "2026-11-06",
+    "day": "Friday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 232,
+    "name": "Implement Queue using Stacks"
+  },
+  {
+    "problemNo": 75,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 496,
+    "name": "Next Greater Element I"
+  },
+  {
+    "problemNo": 76,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "lc": 682,
+    "name": "Baseball Game"
+  },
+  {
+    "problemNo": 77,
+    "date": "2026-11-08",
+    "day": "Sunday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 71,
+    "name": "Simplify Path"
+  },
+  {
+    "problemNo": 78,
+    "date": "2026-11-08",
+    "day": "Sunday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 150,
+    "name": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "problemNo": 79,
+    "date": "2026-11-09",
+    "day": "Monday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 394,
+    "name": "Decode String"
+  },
+  {
+    "problemNo": 80,
+    "date": "2026-11-09",
+    "day": "Monday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 503,
+    "name": "Next Greater Element II"
+  },
+  {
+    "problemNo": 81,
+    "date": "2026-11-09",
+    "day": "Monday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 622,
+    "name": "Design Circular Queue"
+  },
+  {
+    "problemNo": 82,
+    "date": "2026-11-10",
+    "day": "Tuesday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "lc": 739,
+    "name": "Daily Temperatures"
+  },
+  {
+    "problemNo": 83,
+    "date": "2026-11-10",
+    "day": "Tuesday",
+    "session": 6,
+    "topic": "Stacks & Queues",
+    "difficulty": "Hard",
+    "lc": 84,
+    "name": "Largest Rectangle in Histogram"
+  },
+  {
+    "problemNo": 84,
+    "date": "2026-11-11",
+    "day": "Wednesday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Easy",
+    "lc": 100,
+    "name": "Same Tree"
+  },
+  {
+    "problemNo": 85,
+    "date": "2026-11-11",
+    "day": "Wednesday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Easy",
+    "lc": 101,
+    "name": "Symmetric Tree"
+  },
+  {
+    "problemNo": 86,
+    "date": "2026-11-12",
+    "day": "Thursday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Easy",
+    "lc": 104,
+    "name": "Maximum Depth of Binary Tree"
+  },
+  {
+    "problemNo": 87,
+    "date": "2026-11-12",
+    "day": "Thursday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Easy",
+    "lc": 226,
+    "name": "Invert Binary Tree"
+  },
+  {
+    "problemNo": 88,
+    "date": "2026-11-13",
+    "day": "Friday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Easy",
+    "lc": 700,
+    "name": "Search in a Binary Search Tree"
+  },
+  {
+    "problemNo": 89,
+    "date": "2026-11-13",
+    "day": "Friday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 98,
+    "name": "Validate Binary Search Tree"
+  },
+  {
+    "problemNo": 90,
+    "date": "2026-11-13",
+    "day": "Friday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 102,
+    "name": "Binary Tree Level Order Traversal"
+  },
+  {
+    "problemNo": 91,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 103,
+    "name": "Binary Tree Zigzag Level Order Traversal"
+  },
+  {
+    "problemNo": 92,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 105,
+    "name": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "problemNo": 93,
+    "date": "2026-11-15",
+    "day": "Sunday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 199,
+    "name": "Binary Tree Right Side View"
+  },
+  {
+    "problemNo": 94,
+    "date": "2026-11-15",
+    "day": "Sunday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 230,
+    "name": "Kth Smallest Element in a BST"
+  },
+  {
+    "problemNo": 95,
+    "date": "2026-11-16",
+    "day": "Monday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 236,
+    "name": "Lowest Common Ancestor of a Binary Tree"
+  },
+  {
+    "problemNo": 96,
+    "date": "2026-11-16",
+    "day": "Monday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Medium",
+    "lc": 437,
+    "name": "Path Sum III"
+  },
+  {
+    "problemNo": 97,
+    "date": "2026-11-17",
+    "day": "Tuesday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Hard",
+    "lc": 124,
+    "name": "Binary Tree Maximum Path Sum"
+  },
+  {
+    "problemNo": 98,
+    "date": "2026-11-17",
+    "day": "Tuesday",
+    "session": 7,
+    "topic": "Trees (Binary Tree, BST)",
+    "difficulty": "Hard",
+    "lc": 297,
+    "name": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "problemNo": 99,
+    "date": "2026-11-17",
+    "day": "Tuesday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Easy",
+    "lc": 703,
+    "name": "Kth Largest Element in a Stream"
+  },
+  {
+    "problemNo": 100,
+    "date": "2026-11-18",
+    "day": "Wednesday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Easy",
+    "lc": 1046,
+    "name": "Last Stone Weight"
+  },
+  {
+    "problemNo": 101,
+    "date": "2026-11-18",
+    "day": "Wednesday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Easy",
+    "lc": 1337,
+    "name": "The K Weakest Rows in a Matrix"
+  },
+  {
+    "problemNo": 102,
+    "date": "2026-11-19",
+    "day": "Thursday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Easy",
+    "lc": 2558,
+    "name": "Take Gifts From the Richest Pile"
+  },
+  {
+    "problemNo": 103,
+    "date": "2026-11-19",
+    "day": "Thursday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 215,
+    "name": "Kth Largest Element in an Array"
+  },
+  {
+    "problemNo": 104,
+    "date": "2026-11-20",
+    "day": "Friday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 347,
+    "name": "Top K Frequent Elements"
+  },
+  {
+    "problemNo": 105,
+    "date": "2026-11-20",
+    "day": "Friday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 378,
+    "name": "Kth Smallest Element in a Sorted Matrix"
+  },
+  {
+    "problemNo": 106,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 621,
+    "name": "Task Scheduler"
+  },
+  {
+    "problemNo": 107,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 692,
+    "name": "Top K Frequent Words"
+  },
+  {
+    "problemNo": 108,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 767,
+    "name": "Reorganize String"
+  },
+  {
+    "problemNo": 109,
+    "date": "2026-11-22",
+    "day": "Sunday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Medium",
+    "lc": 973,
+    "name": "K Closest Points to Origin"
+  },
+  {
+    "problemNo": 110,
+    "date": "2026-11-22",
+    "day": "Sunday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Hard",
+    "lc": 23,
+    "name": "Merge k Sorted Lists"
+  },
+  {
+    "problemNo": 111,
+    "date": "2026-11-23",
+    "day": "Monday",
+    "session": 8,
+    "topic": "Heaps & Priority Queue",
+    "difficulty": "Hard",
+    "lc": 295,
+    "name": "Find Median from Data Stream"
+  },
+  {
+    "problemNo": 112,
+    "date": "2026-11-23",
+    "day": "Monday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Easy",
+    "lc": 733,
+    "name": "Flood Fill"
+  },
+  {
+    "problemNo": 113,
+    "date": "2026-11-24",
+    "day": "Tuesday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Easy",
+    "lc": 997,
+    "name": "Find the Town Judge"
+  },
+  {
+    "problemNo": 114,
+    "date": "2026-11-24",
+    "day": "Tuesday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Easy",
+    "lc": 1791,
+    "name": "Find Center of Star Graph"
+  },
+  {
+    "problemNo": 115,
+    "date": "2026-11-25",
+    "day": "Wednesday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Easy",
+    "lc": 1971,
+    "name": "Find if Path Exists in Graph"
+  },
+  {
+    "problemNo": 116,
+    "date": "2026-11-25",
+    "day": "Wednesday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 130,
+    "name": "Surrounded Regions"
+  },
+  {
+    "problemNo": 117,
+    "date": "2026-11-25",
+    "day": "Wednesday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 133,
+    "name": "Clone Graph"
+  },
+  {
+    "problemNo": 118,
+    "date": "2026-11-26",
+    "day": "Thursday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 200,
+    "name": "Number of Islands"
+  },
+  {
+    "problemNo": 119,
+    "date": "2026-11-26",
+    "day": "Thursday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 417,
+    "name": "Pacific Atlantic Water Flow"
+  },
+  {
+    "problemNo": 120,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 547,
+    "name": "Number of Provinces"
+  },
+  {
+    "problemNo": 121,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 684,
+    "name": "Redundant Connection"
+  },
+  {
+    "problemNo": 122,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 695,
+    "name": "Max Area of Island"
+  },
+  {
+    "problemNo": 123,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Medium",
+    "lc": 994,
+    "name": "Rotting Oranges"
+  },
+  {
+    "problemNo": 124,
+    "date": "2026-11-29",
+    "day": "Sunday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Hard",
+    "lc": 127,
+    "name": "Word Ladder"
+  },
+  {
+    "problemNo": 125,
+    "date": "2026-11-29",
+    "day": "Sunday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Hard",
+    "lc": 827,
+    "name": "Making A Large Island"
+  },
+  {
+    "problemNo": 126,
+    "date": "2026-11-29",
+    "day": "Sunday",
+    "session": 9,
+    "topic": "Graphs I — BFS/DFS, Union-Find",
+    "difficulty": "Hard",
+    "lc": 864,
+    "name": "Shortest Path to Get All Keys"
+  },
+  {
+    "problemNo": 127,
+    "date": "2026-11-30",
+    "day": "Monday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Easy",
+    "lc": 463,
+    "name": "Island Perimeter"
+  },
+  {
+    "problemNo": 128,
+    "date": "2026-11-30",
+    "day": "Monday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Easy",
+    "lc": 733,
+    "name": "Flood Fill"
+  },
+  {
+    "problemNo": 129,
+    "date": "2026-12-01",
+    "day": "Tuesday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Easy",
+    "lc": 1971,
+    "name": "Find if Path Exists in Graph"
+  },
+  {
+    "problemNo": 130,
+    "date": "2026-12-01",
+    "day": "Tuesday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 743,
+    "name": "Network Delay Time"
+  },
+  {
+    "problemNo": 131,
+    "date": "2026-12-02",
+    "day": "Wednesday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 787,
+    "name": "Cheapest Flights Within K Stops"
+  },
+  {
+    "problemNo": 132,
+    "date": "2026-12-02",
+    "day": "Wednesday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 934,
+    "name": "Shortest Bridge"
+  },
+  {
+    "problemNo": 133,
+    "date": "2026-12-03",
+    "day": "Thursday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 1091,
+    "name": "Shortest Path in Binary Matrix"
+  },
+  {
+    "problemNo": 134,
+    "date": "2026-12-03",
+    "day": "Thursday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 1514,
+    "name": "Path with Maximum Probability"
+  },
+  {
+    "problemNo": 135,
+    "date": "2026-12-03",
+    "day": "Thursday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 1584,
+    "name": "Min Cost to Connect All Points"
+  },
+  {
+    "problemNo": 136,
+    "date": "2026-12-04",
+    "day": "Friday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 1631,
+    "name": "Path With Minimum Effort"
+  },
+  {
+    "problemNo": 137,
+    "date": "2026-12-04",
+    "day": "Friday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Medium",
+    "lc": 1926,
+    "name": "Nearest Exit from Entrance in Maze"
+  },
+  {
+    "problemNo": 138,
+    "date": "2026-12-05",
+    "day": "Saturday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Hard",
+    "lc": 127,
+    "name": "Word Ladder"
+  },
+  {
+    "problemNo": 139,
+    "date": "2026-12-05",
+    "day": "Saturday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Hard",
+    "lc": 778,
+    "name": "Swim in Rising Water"
+  },
+  {
+    "problemNo": 140,
+    "date": "2026-12-06",
+    "day": "Sunday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Hard",
+    "lc": 1368,
+    "name": "Minimum Cost to Make at Least One Valid Path in a Grid"
+  },
+  {
+    "problemNo": 141,
+    "date": "2026-12-06",
+    "day": "Sunday",
+    "session": 10,
+    "topic": "Graphs II — Shortest Path, MST",
+    "difficulty": "Hard",
+    "lc": 2699,
+    "name": "Modify Graph Edge Weights"
+  },
+  {
+    "problemNo": 142,
+    "date": "2026-12-07",
+    "day": "Monday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Easy",
+    "lc": 70,
+    "name": "Climbing Stairs"
+  },
+  {
+    "problemNo": 143,
+    "date": "2026-12-07",
+    "day": "Monday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Easy",
+    "lc": 746,
+    "name": "Min Cost Climbing Stairs"
+  },
+  {
+    "problemNo": 144,
+    "date": "2026-12-07",
+    "day": "Monday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Easy",
+    "lc": 1137,
+    "name": "N-th Tribonacci Number"
+  },
+  {
+    "problemNo": 145,
+    "date": "2026-12-08",
+    "day": "Tuesday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 62,
+    "name": "Unique Paths"
+  },
+  {
+    "problemNo": 146,
+    "date": "2026-12-08",
+    "day": "Tuesday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 63,
+    "name": "Unique Paths II"
+  },
+  {
+    "problemNo": 147,
+    "date": "2026-12-09",
+    "day": "Wednesday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 64,
+    "name": "Minimum Path Sum"
+  },
+  {
+    "problemNo": 148,
+    "date": "2026-12-09",
+    "day": "Wednesday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 91,
+    "name": "Decode Ways"
+  },
+  {
+    "problemNo": 149,
+    "date": "2026-12-10",
+    "day": "Thursday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 97,
+    "name": "Interleaving String"
+  },
+  {
+    "problemNo": 150,
+    "date": "2026-12-10",
+    "day": "Thursday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 198,
+    "name": "House Robber"
+  },
+  {
+    "problemNo": 151,
+    "date": "2026-12-11",
+    "day": "Friday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 213,
+    "name": "House Robber II"
+  },
+  {
+    "problemNo": 152,
+    "date": "2026-12-11",
+    "day": "Friday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 300,
+    "name": "Longest Increasing Subsequence"
+  },
+  {
+    "problemNo": 153,
+    "date": "2026-12-11",
+    "day": "Friday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Medium",
+    "lc": 322,
+    "name": "Coin Change"
+  },
+  {
+    "problemNo": 154,
+    "date": "2026-12-12",
+    "day": "Saturday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Hard",
+    "lc": 10,
+    "name": "Regular Expression Matching"
+  },
+  {
+    "problemNo": 155,
+    "date": "2026-12-12",
+    "day": "Saturday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Hard",
+    "lc": 123,
+    "name": "Best Time to Buy and Sell Stock III"
+  },
+  {
+    "problemNo": 156,
+    "date": "2026-12-13",
+    "day": "Sunday",
+    "session": 11,
+    "topic": "Dynamic Programming I — 1D/2D",
+    "difficulty": "Hard",
+    "lc": 174,
+    "name": "Dungeon Game"
+  },
+  {
+    "problemNo": 157,
+    "date": "2026-12-13",
+    "day": "Sunday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Easy",
+    "lc": 746,
+    "name": "Min Cost Climbing Stairs"
+  },
+  {
+    "problemNo": 158,
+    "date": "2026-12-14",
+    "day": "Monday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Easy",
+    "lc": 1025,
+    "name": "Divisor Game"
+  },
+  {
+    "problemNo": 159,
+    "date": "2026-12-14",
+    "day": "Monday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 97,
+    "name": "Interleaving String"
+  },
+  {
+    "problemNo": 160,
+    "date": "2026-12-15",
+    "day": "Tuesday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 139,
+    "name": "Word Break"
+  },
+  {
+    "problemNo": 161,
+    "date": "2026-12-15",
+    "day": "Tuesday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 152,
+    "name": "Maximum Product Subarray"
+  },
+  {
+    "problemNo": 162,
+    "date": "2026-12-15",
+    "day": "Tuesday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 416,
+    "name": "Partition Equal Subset Sum"
+  },
+  {
+    "problemNo": 163,
+    "date": "2026-12-16",
+    "day": "Wednesday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 494,
+    "name": "Target Sum"
+  },
+  {
+    "problemNo": 164,
+    "date": "2026-12-16",
+    "day": "Wednesday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 518,
+    "name": "Coin Change II"
+  },
+  {
+    "problemNo": 165,
+    "date": "2026-12-17",
+    "day": "Thursday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Medium",
+    "lc": 1143,
+    "name": "Longest Common Subsequence"
+  },
+  {
+    "problemNo": 166,
+    "date": "2026-12-17",
+    "day": "Thursday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Hard",
+    "lc": 44,
+    "name": "Wildcard Matching"
+  },
+  {
+    "problemNo": 167,
+    "date": "2026-12-18",
+    "day": "Friday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Hard",
+    "lc": 115,
+    "name": "Distinct Subsequences"
+  },
+  {
+    "problemNo": 168,
+    "date": "2026-12-18",
+    "day": "Friday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Hard",
+    "lc": 188,
+    "name": "Best Time to Buy and Sell Stock IV"
+  },
+  {
+    "problemNo": 169,
+    "date": "2026-12-19",
+    "day": "Saturday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Hard",
+    "lc": 312,
+    "name": "Burst Balloons"
+  },
+  {
+    "problemNo": 170,
+    "date": "2026-12-19",
+    "day": "Saturday",
+    "session": 12,
+    "topic": "Dynamic Programming II — Advanced",
+    "difficulty": "Hard",
+    "lc": 887,
+    "name": "Super Egg Drop"
+  },
+  {
+    "problemNo": 171,
+    "date": "2026-12-19",
+    "day": "Saturday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "lc": 455,
+    "name": "Assign Cookies"
+  },
+  {
+    "problemNo": 172,
+    "date": "2026-12-20",
+    "day": "Sunday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "lc": 860,
+    "name": "Lemonade Change"
+  },
+  {
+    "problemNo": 173,
+    "date": "2026-12-20",
+    "day": "Sunday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "lc": 1005,
+    "name": "Maximize Sum Of Array After K Negations"
+  },
+  {
+    "problemNo": 174,
+    "date": "2026-12-21",
+    "day": "Monday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "lc": 1710,
+    "name": "Maximum Units on a Truck"
+  },
+  {
+    "problemNo": 175,
+    "date": "2026-12-21",
+    "day": "Monday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 45,
+    "name": "Jump Game II"
+  },
+  {
+    "problemNo": 176,
+    "date": "2026-12-22",
+    "day": "Tuesday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 55,
+    "name": "Jump Game"
+  },
+  {
+    "problemNo": 177,
+    "date": "2026-12-22",
+    "day": "Tuesday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 134,
+    "name": "Gas Station"
+  },
+  {
+    "problemNo": 178,
+    "date": "2026-12-23",
+    "day": "Wednesday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 406,
+    "name": "Queue Reconstruction by Height"
+  },
+  {
+    "problemNo": 179,
+    "date": "2026-12-23",
+    "day": "Wednesday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 435,
+    "name": "Non-overlapping Intervals"
+  },
+  {
+    "problemNo": 180,
+    "date": "2026-12-23",
+    "day": "Wednesday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 452,
+    "name": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "problemNo": 181,
+    "date": "2026-12-24",
+    "day": "Thursday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "lc": 763,
+    "name": "Partition Labels"
+  },
+  {
+    "problemNo": 182,
+    "date": "2026-12-24",
+    "day": "Thursday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Hard",
+    "lc": 135,
+    "name": "Candy"
+  },
+  {
+    "problemNo": 183,
+    "date": "2026-12-25",
+    "day": "Friday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Hard",
+    "lc": 330,
+    "name": "Patching Array"
+  },
+  {
+    "problemNo": 184,
+    "date": "2026-12-25",
+    "day": "Friday",
+    "session": 13,
+    "topic": "Greedy Algorithms",
+    "difficulty": "Hard",
+    "lc": 630,
+    "name": "Course Schedule III"
+  },
+  {
+    "problemNo": 185,
+    "date": "2026-12-26",
+    "day": "Saturday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Easy",
+    "lc": 14,
+    "name": "Longest Common Prefix"
+  },
+  {
+    "problemNo": 186,
+    "date": "2026-12-26",
+    "day": "Saturday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Easy",
+    "lc": 205,
+    "name": "Isomorphic Strings"
+  },
+  {
+    "problemNo": 187,
+    "date": "2026-12-27",
+    "day": "Sunday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Easy",
+    "lc": 290,
+    "name": "Word Pattern"
+  },
+  {
+    "problemNo": 188,
+    "date": "2026-12-27",
+    "day": "Sunday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 151,
+    "name": "Reverse Words in a String"
+  },
+  {
+    "problemNo": 189,
+    "date": "2026-12-27",
+    "day": "Sunday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 187,
+    "name": "Repeated DNA Sequences"
+  },
+  {
+    "problemNo": 190,
+    "date": "2026-12-28",
+    "day": "Monday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 208,
+    "name": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "problemNo": 191,
+    "date": "2026-12-28",
+    "day": "Monday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 211,
+    "name": "Design Add and Search Words Data Structure"
+  },
+  {
+    "problemNo": 192,
+    "date": "2026-12-29",
+    "day": "Tuesday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 648,
+    "name": "Replace Words"
+  },
+  {
+    "problemNo": 193,
+    "date": "2026-12-29",
+    "day": "Tuesday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Medium",
+    "lc": 677,
+    "name": "Map Sum Pairs"
+  },
+  {
+    "problemNo": 194,
+    "date": "2026-12-30",
+    "day": "Wednesday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Hard",
+    "lc": 140,
+    "name": "Word Break II"
+  },
+  {
+    "problemNo": 195,
+    "date": "2026-12-30",
+    "day": "Wednesday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Hard",
+    "lc": 212,
+    "name": "Word Search II"
+  },
+  {
+    "problemNo": 196,
+    "date": "2026-12-31",
+    "day": "Thursday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Hard",
+    "lc": 336,
+    "name": "Palindrome Pairs"
+  },
+  {
+    "problemNo": 197,
+    "date": "2026-12-31",
+    "day": "Thursday",
+    "session": 14,
+    "topic": "Tries & Advanced Strings",
+    "difficulty": "Hard",
+    "lc": 472,
+    "name": "Concatenated Words"
+  },
+  {
+    "problemNo": 198,
+    "date": "2026-12-31",
+    "day": "Thursday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Medium",
+    "lc": 3,
+    "name": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "problemNo": 199,
+    "date": "2027-01-01",
+    "day": "Friday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Medium",
+    "lc": 56,
+    "name": "Merge Intervals"
+  },
+  {
+    "problemNo": 200,
+    "date": "2027-01-01",
+    "day": "Friday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Medium",
+    "lc": 200,
+    "name": "Number of Islands"
+  },
+  {
+    "problemNo": 201,
+    "date": "2027-01-02",
+    "day": "Saturday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Medium",
+    "lc": 215,
+    "name": "Kth Largest Element in an Array"
+  },
+  {
+    "problemNo": 202,
+    "date": "2027-01-02",
+    "day": "Saturday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Medium",
+    "lc": 322,
+    "name": "Coin Change"
+  },
+  {
+    "problemNo": 203,
+    "date": "2027-01-03",
+    "day": "Sunday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Hard",
+    "lc": 23,
+    "name": "Merge k Sorted Lists"
+  },
+  {
+    "problemNo": 204,
+    "date": "2027-01-03",
+    "day": "Sunday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Hard",
+    "lc": 42,
+    "name": "Trapping Rain Water"
+  },
+  {
+    "problemNo": 205,
+    "date": "2027-01-04",
+    "day": "Monday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Hard",
+    "lc": 72,
+    "name": "Edit Distance"
+  },
+  {
+    "problemNo": 206,
+    "date": "2027-01-04",
+    "day": "Monday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Hard",
+    "lc": 76,
+    "name": "Minimum Window Substring"
+  },
+  {
+    "problemNo": 207,
+    "date": "2027-01-04",
+    "day": "Monday",
+    "session": 15,
+    "topic": "Full-Length Mock Contest + Revision",
+    "difficulty": "Hard",
+    "lc": 124,
+    "name": "Binary Tree Maximum Path Sum"
+  }
+]
