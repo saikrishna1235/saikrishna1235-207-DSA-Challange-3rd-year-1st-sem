@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://saikrishna1235-207-dsa-challange-3rd.onrender.com/api/:path*"
+    }
+  ]
+}
