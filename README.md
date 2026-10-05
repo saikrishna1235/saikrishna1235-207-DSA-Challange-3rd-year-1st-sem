@@ -39,7 +39,7 @@ cd frontend
 npm install
 cp .env.example .env
 ```
-Set `VITE_API_URL=http://localhost:10000/api`, then:
+Set `VITE_API_URL=https://saikrishna1235-207-dsa-challange-3rd.onrender.com`, then:
 ```bash
 npm run dev
 ```
@@ -57,7 +57,7 @@ npm run seed
 
 ## 5. Vercel frontend
 Import the `frontend/` directory as the Vercel project root. Set:
-`VITE_API_URL=https://YOUR-RENDER-SERVICE.onrender.com/api`
+`VITE_API_URL=https://saikrishna1235-207-dsa-challange-3rd.onrender.com`
 
 ## Security notes
 - Never commit `.env` files.
